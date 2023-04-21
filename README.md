@@ -2,7 +2,7 @@
 Here shows you a summarization in Languchain.
 
 LanguChainによる自動要約
-〜 ChatGPT部 #02 〜LT大会〜 - connpass 2023年4月15日（土）10:00-11:00
+〜 ChatGPT部 #02 〜LT大会〜 - connpass 2023年4月15日（土）10:00-11:00　https://chatgptclub.connpass.com/event/280526/　
 
 概要:
 ・LangChainで下記の2つのタイプの自動要約を試してみました。
